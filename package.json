@@ -1,0 +1,19 @@
+{
+  "name": "find-and-replace",
+  "version": "1.0.0",
+  "description": "Find and replace all occurrence of a word with another word. The code can run recursively.",
+  "main": "replace.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/outchin/find-and-replace.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/outchin/find-and-replace/issues"
+  },
+  "homepage": "https://github.com/outchin/find-and-replace#readme"
+}
